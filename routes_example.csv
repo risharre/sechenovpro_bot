@@ -1,0 +1,11 @@
+participant_number,station_1,station_2,station_3,station_4,station_5,station_6,station_7,station_8,station_9
+001,A,C,F,B,H,D,G,E,I
+002,B,D,G,C,I,E,H,F,A
+003,C,E,H,D,A,F,I,G,B
+004,D,F,I,E,B,G,A,H,C
+005,E,G,A,F,C,H,B,I,D
+006,F,H,B,G,D,I,C,A,E
+007,G,I,C,H,E,A,D,B,F
+008,H,A,D,I,F,B,E,C,G
+009,I,B,E,A,G,C,F,D,H
+010,A,D,H,C,I,G,B,F,E 
